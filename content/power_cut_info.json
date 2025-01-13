@@ -1,0 +1,2873 @@
+[
+    {
+        "provinceName": "Ben Tre",
+        "powerCuts": [
+            {
+                "date": "14 tháng 1 năm 2025",
+                "details": [
+                    {
+                        "powerCompany": "Điện lực Thành phố Bến Tre",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:15",
+                        "endTime": "13:00",
+                        "location": "Khu phố 3 phường 7",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Bến Tre",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Bình Thành xã Bình Phú; khu phố 4 phường 7",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Ba Tri",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp 2 xã Tân Xuân huyện Ba Tri.",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Ba Tri",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp 2 xã Tân Xuân huyện Ba Tri.",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Bình Đông – Bình Tây xã Cẩm Sơn",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Phú Sơn – Minh Nghĩa xã Ngãi Đăng",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Khu phố 3 – 4 – 5 – 7 thị trấn Mỏ Cày",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Khu phố 3 – 4 – 5 – 7 thị trấn Mỏ Cày",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Khu phố 3 – 4 – 5 – 7 thị trấn Mỏ Cày",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Khu phố 3 – 4 – 5 – 7 thị trấn Mỏ Cày",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Khu phố 3 – 4 – 5 – 7 thị trấn Mỏ Cày",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bình Đại",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Bình Huề 1 xã Đại Hòa Lộc",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Thạnh Phú",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp Giang Hà xã An Điền",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Thạnh Phú",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp Giang Hà xã An Điền",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "ấp Hữu Thành xã Hữu Định",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "ấp Phước Hòa – Phú Ngãi xã Phú An Hòa",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:45",
+                        "endTime": "10:00",
+                        "location": "ấp 1 – 4 –6 xã Tân Thạch",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "11:00",
+                        "location": "Ấp An Hòa – Hòa Thanh xã An Hiệp",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "10:15",
+                        "endTime": "11:30",
+                        "location": "ấp 1 – 4 –6 xã Tân Thạch",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "17:00",
+                        "location": "ấp 1 – 4 –6 xã Tân Thạch",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "14:30",
+                        "location": "ấp Phước Hòa – Phú Ngãi xã Phú An Hòa",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "15:00",
+                        "endTime": "17:00",
+                        "location": "ấp Phước Thới xã An Phước",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Giồng Trôm",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp Nghĩa Huấn xã Mỹ Thạnh",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Giồng Trôm",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp Giồng Sậy xã Phong Nẫm",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Giồng Trôm",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp Phú Tân - Phú Thuận xã Châu Hòa",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Giồng Trôm",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp Thới Thuận xã Châu Hòa",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Giồng Trôm",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp 4 xã Phước Long, ấp 2 xã Thuận Điền",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp Chợ - Phụng Đức B xã Phú Phụng",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "12:00",
+                        "location": "Khách hàng Vựa trái cây Út Hoàng",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Đại An xã Hòa Nghĩa",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "17:00",
+                        "location": "Khách hàng VLXD Lê Hoàng Minh",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    }
+                ]
+            },
+            {
+                "date": "15 tháng 1 năm 2025",
+                "details": [
+                    {
+                        "powerCompany": "Điện lực Thành phố Bến Tre",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp Mỹ Đức xã Bình Phú",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Ba Tri",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "12:30",
+                        "location": "Khu phố An Thới thị trấn Tiệm Tôm huyện Ba Tri.",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "ấp An Thiện – An Lộc – An Qui xã An Thới, Thới Hòa – Thới Đức – Thới Khương xã Thành Thới A",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "09:10",
+                        "location": "Trạm chuyên dùng khách hàng",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Khu phố 3 thị trấn Mỏ Cày - Ấp An Vĩnh xã Đa Phước Hội",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp An Nhơn 1 - An Nhơn 2 xã Đa Phước Hội",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "14:00",
+                        "location": "Trạm chuyên dùng khách hàng",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "14:20",
+                        "endTime": "15:20",
+                        "location": "Trạm chuyên dùng khách hàng",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bình Đại",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Phước Hòa xã Thạnh Phước",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bình Đại",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Phước Lợi xã Thạnh Phước",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Thạnh Phú",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "06:30",
+                        "endTime": "18:00",
+                        "location": "Xã Giao Thạnh, Thạnh Phong- huyện Thạnh Phú",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Thạnh Phú",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "06:30",
+                        "endTime": "18:00",
+                        "location": "Ấp An Hoà xã An Nhơn",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "12:00",
+                        "location": "Ấp 2 – 3 – 6 – 7 – 9 xã Tân Thạch",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp Hàm Luông xã Tân Phú",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "17:00",
+                        "location": "Ấp 2 – 3 – 6 – 7 – 9 xã Tân Thạch",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "17:00",
+                        "location": "Ấp 2 xã Quới Sơn",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "13:30",
+                        "endTime": "14:30",
+                        "location": "Ấp 2 – 3 – 6 – 7 – 9 xã Tân Thạch",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "14:45",
+                        "endTime": "17:00",
+                        "location": "Ấp 2 – 3 – 6 – 7 – 9 xã Tân Thạch",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Giồng Trôm",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp 3 xã Lương Hòa, ấp Lương Thuận xã Lương Quới",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Giồng Trôm",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp 1 xã Lương Hòa",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Giồng Trôm",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Khu Phố 2 Thị trấn Giồng Trôm",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Giồng Trôm",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp 6 Thị trấn Giồng Trôm",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Giồng Trôm",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp 4 xã Sơn Phú",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp Chợ - Phụng Đức B xã Phú Phụng",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "10:00",
+                        "location": "Khách hàng Vĩnh Nghi",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Phú Hiệp - Lân Bắc xã Phú Sơn",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "09:00",
+                        "endTime": "11:00",
+                        "location": "Khách hàng Bưu điện Chợ Lách",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "10:00",
+                        "endTime": "12:00",
+                        "location": "Ấp Bình An - Đại An xã Hòa Nghĩa",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "11:00",
+                        "endTime": "12:00",
+                        "location": "Khách hàng TT Y Tế Chợ Lách",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "12:30",
+                        "endTime": "13:30",
+                        "location": "Khách hàng Cty THHH SX dừa MêKông",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "14:00",
+                        "endTime": "15:00",
+                        "location": "Khách hàng Vựa trái cây Út Thoa",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "15:00",
+                        "endTime": "16:00",
+                        "location": "Khách hàng Trường THPT Long Thới",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Bắc",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Xóm Cối – Ông Thung – Chợ Cũ xã Thạnh Ngãi",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    }
+                ]
+            },
+            {
+                "date": "16 tháng 1 năm 2025",
+                "details": [
+                    {
+                        "powerCompany": "Điện lực Thành phố Bến Tre",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "13:00",
+                        "location": "Ấp 2B xã Nhơn Thạnh",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Bến Tre",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Phú Chánh xã Phú Hưng - TP.Bến Tre",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Ba Tri",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "KP5 thị trấn Ba Tri- huyện Ba Tri",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Bình Đông xã Hương Mỹ",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Hội An xã Đa Phước Hội",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp An Bình - An Hòa xã An Thạnh",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Hội An xã Đa Phước Hội",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Thạnh Phú",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "17:00",
+                        "location": "CSDĐ Võ Văn Tấn, ấp Thạnh Mỹ xã Mỹ Hưng",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "09:30",
+                        "location": "Khu phố 2 – 3 thị trấn Châu Thành",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "09:30",
+                        "location": "ấp Phú Ngãi xã Phú An Hòa, ấp 1 – Quới Thạnh Đông xã Quới Sơn",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "09:45",
+                        "endTime": "11:30",
+                        "location": "Trạm KH",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "10:00",
+                        "endTime": "11:30",
+                        "location": "ấp Quới Thạnh Đông xã Quới Sơn",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "17:00",
+                        "location": "ấp Hòa Thanh xã An Hóa",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "13:30",
+                        "endTime": "14:30",
+                        "location": "Khu phố 2 – 3 thị trấn Châu Thành",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "14:45",
+                        "endTime": "17:00",
+                        "location": "Khu phố 2 – 3 thị trấn Châu Thành",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Giồng Trôm",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp 5A Thị trấn Giồng Trôm",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Giồng Trôm",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp Kinh Ngoài xã Bình Hòa",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Giồng Trôm",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp 3 xã Phước Long",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp Sơn Lân - Sơn Phụng xã Sơn Định",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Phú Hiệp xã Phú Sơn",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Bắc",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Tích Đức – Khánh Thạnh – Tân Hưng – Tân Lợi xã Khánh Thạnh Tân",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    }
+                ]
+            },
+            {
+                "date": "17 tháng 1 năm 2025",
+                "details": [
+                    {
+                        "powerCompany": "Điện lực Thành phố Bến Tre",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Khu phố 3 phường Phú Tân, khu phố 4 phường Phú Khương",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Bến Tre",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "08:30",
+                        "endTime": "17:00",
+                        "location": "Ấp Phú Chiến xã Phú Hưng",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Ba Tri",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp Vĩnh Đức Trung xã Vĩnh An huyện Ba Tri.",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Ba Tri",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp Giồng Cả xã An Đức huyện Ba Tri.",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Ba Tri",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp 1 xã An Ngãi Trung huyện Ba Tri.",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Ba Tri",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp Vĩnh Đức Trung xã Vĩnh An huyện Ba Tri.",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Vĩnh Hòa - Hội Thành xã Tân Hội",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Hội An xã Đa Phước Hội",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bình Đại",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "18:00",
+                        "location": "Xã Lộc Thuận; ấp Cả Đuối xã Định Trung",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Thạnh Phú",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp Thạnh Tân xã Bình Thạnh",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "06:30",
+                        "endTime": "18:00",
+                        "location": "Khu phố 3 – 4 – ấp Phú Nhơn thị trấn Châu Thành; ấp 2 – 3 – Phước Thành – Phước Hữu – Phước Hậu xã Tam Phước, ấp 3 – 4 – 7 xã An Khánh, ấp Hữu Nhơn – Hữu Chiến – Phú Hữu xã Hữu Định",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "ấp Phước Hòa xã Phú An Hòa, Phước Thới xã An Phước",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "ấp Phước Hòa xã Phú An Hòa, Phước Thới xã An Phước",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "09:30",
+                        "location": "ấp Hữu Nhơn – Hữu Chiến – Phú Hữu xã Hữu Định",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "09:30",
+                        "location": "ấp Hữu Nhơn – Hữu Chiến – Phú Hữu xã Hữu Định",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "09:45",
+                        "endTime": "11:30",
+                        "location": "ấp Hữu Nhơn – Hữu Chiến – Phú Hữu xã Hữu Định",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "10:00",
+                        "endTime": "11:30",
+                        "location": "ấp Phước Thiện – Phước Thành xã Phước Thạnh",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "14:30",
+                        "location": "Trạm KH",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "14:30",
+                        "location": "ấp Phước Thiện – Phước Thành xã Phước Thạnh",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "14:45",
+                        "endTime": "17:00",
+                        "location": "ấp Phước Thiện – Phước Thành xã Phước Thạnh",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "15:00",
+                        "endTime": "17:00",
+                        "location": "ấp Hữu Nhơn – Hữu Chiến – Phú Hữu xã Hữu Định",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Giồng Trôm",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "08:30",
+                        "endTime": "17:00",
+                        "location": "Khu Phố 1 - 2 Thị trấn Giồng Trôm ấp Bình Tiên xã Bình Thành",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Giồng Trôm",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "12:00",
+                        "endTime": "17:00",
+                        "location": "Trại giam K20",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp Vĩnh Phú - Phú Hội - Vĩnh Hiệp xã Vĩnh Thành",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Chợ xã Phú Phụng",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Lân Đông xã Phú Sơn, Phú Thuận - Kinh Gãy xã Phú Mỹ huyệ Mỏ Cày Bắc",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    }
+                ]
+            },
+            {
+                "date": "18 tháng 1 năm 2025",
+                "details": [
+                    {
+                        "powerCompany": "Điện lực Thành phố Bến Tre",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "06:00",
+                        "endTime": "18:00",
+                        "location": "Đường Tỉnh 887 từ khu du lịch Lan Vương đến cổng chào huyện Giồng Trôm",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Bến Tre",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Đường Nguyễn Thị Định từ Chùa Phước Lâm đến ngã ba Phú Hưng",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Bến Tre",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Đường Nguyễn Văn Tư từ chợ Ngã 5 đến Trường Mỹ Hóa",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Bến Tre",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Khu phố 5,6 phường An Hội",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Ba Tri",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "12:30",
+                        "location": "Ấp Mỹ Trung xã Mỹ Thạnh huyện Ba Tri.",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp An Lộc Gồng - An Hòa - Bình Thới - An Bình - An Phong xã An Thạnh",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp An Vĩnh 1 - An Vĩnh 2 xã Đa Phước Hội",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Phú Tây xã An Định",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Khu phố 1 - Khu phố 2 thị trấn Mỏ Cày",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Phú Quới xã Tân Hội",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Khu phố 7 thị trấn Mỏ Cày",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Khu phố 5 thị trấn Mỏ Cày",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Khu phố 3 - Khu phố 4 thị trấn Mỏ Cày",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Khu phố 2 - Khu phố 5 thị trấn Mỏ Cày",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Khu phố 2 thị trấn Mỏ Cày",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Khu phố 4 - Khu phố 5 thị trấn Mỏ Cày",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bình Đại",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "18:00",
+                        "location": "Xã Thới Lai, Vang Quới Đông; ấp Vinh Châu – Vinh Thái – Vinh Hội xã Vang Quới Tây, Lộc Hòa xã Lộc Thuận",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Thạnh Phú",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "11:00",
+                        "location": "Ấp Thạnh Trị Hạ - khu phố 1 thị trấn Thạnh Phú",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Thạnh Phú",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "09:00",
+                        "endTime": "10:00",
+                        "location": "CSNT Nguyễn Thị Mỹ Linh ấp An Thủy xã An Qui",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Thạnh Phú",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "10:00",
+                        "endTime": "11:00",
+                        "location": "CSNT Lê Thị Nữ ấp An Thủy xã An Qui",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Thạnh Phú",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Thạnh Trị Hạ - khu phố 1 thị trấn Thạnh Phú",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Thạnh Phú",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "14:00",
+                        "location": "CSNT Huỳnh Văn Vốn ấp An Huề xã An Qui",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Thạnh Phú",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "14:00",
+                        "endTime": "15:00",
+                        "location": "CSNT Trần Văn Quân ấp An Thủy xã An Qui",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "18:00",
+                        "location": "Ấp Phước Lễ – ấp Chợ – Phước Thạnh 1 – Phước Hòa xã Thành Triệu, Phú Phong xã Quới Thành, Phú Khương xã Phú Túc",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "18:00",
+                        "location": "Xã Quới Sơn; ấp Long Hòa xã Giao Long",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Giồng Trôm",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp 2 xã Hưng Nhượng",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Giồng Trôm",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp 1 xã Tân Hào",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Giồng Trôm",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "09:00",
+                        "endTime": "11:00",
+                        "location": "KH: Viễn Thông Giồng Trôm",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "14:00",
+                        "location": "Ấp Sơn Lân xã Sơn Định",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "12:00",
+                        "location": "Ấp Tân Trung - Thanh Xuân - Phú Hòa xã Hưng Khánh Trung B; Thanh Điền xã Hưng Khánh Trung A huyện Mỏ Cày Bắc",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Hòa Phước xã Vĩnh Hòa Ấp Gia Phước xã Hưng Khánh trung A - Mỏ Cày Bắc Ấp Hòa 2 -Hòa Phước xã Vĩnh Hòa Ấp Gia Phước xã Hưng Khánh trung A - Mỏ Cày Bắc",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Bắc",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "18:00",
+                        "location": "Ấp Chợ Xếp xã Tân Thành Bình, Gia Phước – Thanh Điền xã Hưng Khánh Trung A",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    }
+                ]
+            },
+            {
+                "date": "19 tháng 1 năm 2025",
+                "details": [
+                    {
+                        "powerCompany": "Điện lực Thành phố Bến Tre",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "06:00",
+                        "endTime": "18:00",
+                        "location": "Đường Tỉnh 887 từ vòng xoay Mỹ Thạnh An đến khu du lịch Lan Vương",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Bến Tre",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "06:00",
+                        "endTime": "18:00",
+                        "location": "Bên Phải đại lộ Đồng Khởi từ vòng xoay Tân Thành đến vòng xoay Đông Tây",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Bến Tre",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Khu phố 2,3,6,7 phường Phú Khương",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp An Thiện - Thới Hòa xã Thành Thới B",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp An Thiện - Thới Hòa xã Thành Thới B",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Khu phố 4 - Khu phố 5 thị trấn Mỏ Cày",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Vĩnh Khánh xã An Thạnh",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Nam",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "09:40",
+                        "endTime": "10:50",
+                        "location": "Trạm Trung tâm hành chánh huyện Mỏ Cày Nam",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bình Đại",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "06:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Thới Lợi 1 xã Thới Thuận",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bình Đại",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "06:00",
+                        "endTime": "17:00",
+                        "location": "Xã Tam Hiệp",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Thạnh Phú",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "09:00",
+                        "endTime": "10:00",
+                        "location": "CSNT Ngô Văn Thơ ấp Thạnh Lộc xã Thạnh Phong",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Thạnh Phú",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "10:00",
+                        "endTime": "11:00",
+                        "location": "CSNT Võ Văn Hoàng ấp Thạnh Lộc xã Thạnh Phong",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Thạnh Phú",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "14:00",
+                        "location": "CSNT Phạm Văn Hoài ấp Thạnh Lộc xã Thạnh Phong",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Thạnh Phú",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "14:00",
+                        "endTime": "15:00",
+                        "location": "CSNT Huỳnh Văn Đức ấp An Bình xã An Nhơn",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Châu Thành",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "18:00",
+                        "location": "Xã Tân Thạch",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Ấp Bình An B - Thị Trấn Chợ Lách",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Chợ Lách",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Ấp Bình An B - Thị Trấn Chợ Lách",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Mỏ Cày Bắc",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "18:00",
+                        "location": "Ấp Hòa Hưng – Hòa Bình xã Hòa Lộc, Thành Hóa 1 – Thành Hóa 2 – Thanh Bình 1 – Thanh Bình 2 – Chợ Xếp xã Tân Thành Bình",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "provinceName": "Binh Duong",
+        "powerCuts": [
+            {
+                "date": "14 tháng 1 năm 2025",
+                "details": [
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế trạm III-400kVA Phạm Ngọc Thạch 1, đường Phạm Ngọc Thạch, phường Hiệp Thành, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA III-630kVA Thu Nhập Thấp 1, III-400kVA Thu Nhập Thấp 2, KDc TNT, phường Hiệp Thành, PT TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA III-400kVA Nguyễn Tri Phương 2, đường Nguyễn Tri Phương, phường Chánh Nghĩa, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA Khu 8 Phú Hòa 2, đường hẻm 385 đường Lê Hồng Phong, phường Phú Hòa, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA Khu 8 Phú Hòa 3, đường hẻm 453 Lê Hồng Phong, phường Phú Hòa, TPTDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA 400kVALê Hồng Phong 8, đường Lê Hồng Phong, phường Phú Lợi, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA 4III-400kVA Phú Thuận 1 và lưới hạ thế trạm Khu 7 Phú Lợi, đường Huỳnh Văn Lũy, đường Nguyễn Bình, đường Hẻm 220 đường Huỳnh Văn Lũy, phường Phú Lợi, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA 4III-400kVA Phú Thuận 1 và lưới hạ thế trạm Khu 7 Phú Lợi, đường Huỳnh Văn Lũy, đường Nguyễn Bình, đường Hẻm 220 đường Huỳnh Văn Lũy, phường Phú Lợi, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "17:00",
+                        "location": "Khu vực đường CMT8, đường Số 4, 5, 14 KDC Chánh Nghĩa, phường Chánh Nghĩa, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "14:30",
+                        "location": "Khu vực đường Thích Quảng Đức, phường Phường Chánh Nghĩa, Phường Phú Cường TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "15:30",
+                        "location": "Khu vực đường đường CMT8, đường Huỳnh Văn Cù, phường Chánh Mỹ, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "12:30",
+                        "location": "Khu vực lưới hạ thế Trạm Bình Điềm 2, đường Nguyễn Thái Bình, đường hẻm 93 Nguyễn Thị Minh Khai, phường Phú Hòa, TP TDM",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "13:30",
+                        "endTime": "17:00",
+                        "location": "Khu vực đường đường Văn Công Khai, đường Bàu Bàng, phường Chánh Nghĩa, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường Nguyễn Trãi-Phường Dĩ An-TPDA",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường Nguyễn Thị Minh Khai-Phường Tân Đông Hiệp-TPDA",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường Nguyễn Thị Minh Khai-Phường Tân Đông Hiệp-TPDA",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Bến Cát",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "07:30",
+                        "endTime": "16:30",
+                        "location": "Khu vực khách hàng: Trạm 4 Phát Hưng (Bến Cát)",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "TBA Căm Xe 2, thuộc xã Minh Thạnh (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "TBA Căm Xe 7, thuộc xã Minh Thạnh (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "TBA Khơ Me 3, thuộc xã Minh Thạnh (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thị xã Tân Uyên",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "13:00",
+                        "location": "Khu vực trạm Khánh Bình 3-Phường Tân Hiệp (TP Tân Uyên)",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thị xã Tân Uyên",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "13:00",
+                        "location": "Khu vực trạm Khánh Bình 5-Phường Tân Hiệp (TP Tân Uyên)",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thị xã Tân Uyên",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Khu vực trạm Xóm Dầu-Phường Uyên Hưng (TP Tân Uyên)",
+                        "reason": "Đầu tư xây dựng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thị xã Tân Uyên",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "17:00",
+                        "location": "Khu vực trạm Khánh Bình 1-Phường Tân Hiệp (TP Tân Uyên)",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thị xã Tân Uyên",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "17:00",
+                        "location": "Khu vực trạm Khu phố Bà Tri-Phường Tân Hiệp (TP Tân Uyên)",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bắc Tân Uyên",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "09:30",
+                        "location": "Khu vực lưới hạ áp trạm Bàu Mây, xã Tân Lập, Bắc Tân Uyên.",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bắc Tân Uyên",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "09:00",
+                        "endTime": "10:15",
+                        "location": "Khu vực lưới hạ áp trạm Y Tế Tân Định,, xã Tân Định, Bắc Tân Uyên.",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bắc Tân Uyên",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "10:00",
+                        "endTime": "11:15",
+                        "location": "Khu vực lưới hạ áp trạm Tân Định 01, xã Tân Định, Bắc Tân Uyên.",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bắc Tân Uyên",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "10:30",
+                        "endTime": "11:40",
+                        "location": "Khu vực lưới hạ áp trạm Tân Định 37, xã Tân Định, Bắc Tân Uyên.",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bắc Tân Uyên",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "13:30",
+                        "endTime": "14:15",
+                        "location": "Khu vực lưới hạ áp trạm Tân Định 41, xã Tân Định, Bắc Tân Uyên.",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Kế hoạch"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bắc Tân Uyên",
+                        "date": "14 tháng 1 năm 2025",
+                        "startTime": "14:00",
+                        "endTime": "16:00",
+                        "location": "Khu vực lưới hạ áp trạm Tân Định 54 xã Tân Định, Bắc Tân Uyên.",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Kế hoạch"
+                    }
+                ]
+            },
+            {
+                "date": "15 tháng 1 năm 2025",
+                "details": [
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA III-400kVA Hãng Mực, đường Lý Thường Kiệt, đường Văn Công Khai, phường Phú Cường, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA III-400kVA Bến Xe 1, đường Trần Tử Bình, đường CMT8, đuờng Nguyễn Trãi, đường Lê Văn Tám, phường Phú Cường, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA III-400kVA Bến Xe 2, đường Trần Tử Bình, đường CMT8, đường Hunhf Vương, phường Phú Cường, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA III-400kVA Nam Sanh, đường Thích Quảng Đức,phường Phú Lợi, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA 3x50kVA Tân Lập 3 đường ĐLBD,phường Phú Lợi, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA 560kVA Bình Thoại, đường Phú Lợi, hẻm 633, 669, 679 đường Phú Lợi, phường Phú Lợi, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA 400kVA Trần Văn Ơn 2, đường Hẻm 424 Lê Hồng Phong, phường Phú Hòa, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "14:30",
+                        "location": "Khu vực đường Lê Hồng Phong, Phường Phú Lợi, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "14:30",
+                        "location": "Khu vực đường Phú Lợi, Phường Phú Hòa, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "14:30",
+                        "location": "Khu vực đường Nguyễn Thái Bình, đường số 10, 08, 03,04,06 kDC TNT Phú Hòa phường Phú Hòa, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "13:30",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường Bùi Văn Bình, Phường Phú Lợi, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường A Trung Tâm Hành Chính Dĩ An , phường Dĩ An , thành phố Dĩ An, tỉnh Bình Dương.",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường C Trung Tâm Hành Chính Dĩ An , phường Dĩ An , thành phố Dĩ An, tỉnh Bình Dương.",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường C Trung Tâm Hành Chính Dĩ An , phường Dĩ An , thành phố Dĩ An, tỉnh Bình Dương.",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "TBA Lò Gạch 2, thuộc xã Minh Thạnh (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "TBA Bến Bà Dung 1, thuộc xã Minh Hòa (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "TBA Ba Sang, thuộc xã Minh Hòa (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "TBA Tô Tấn Tiệp 1, thuộc xã Thanh Tuyền (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "TBA Phan Văn Rua, Phan Văn Rua 2, thuộc xã Thanh Tuyền (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "TBA Phan Văn Tiến 1, 2, Nông Trường Phan Văn Tiến, thuộc xã Thanh Tuyền (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thị xã Tân Uyên",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Khu vực KDC Phúc Đạt-Phường Tân Hiệp (TP Tân Uyên)",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thị xã Tân Uyên",
+                        "date": "15 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Khu vực trạm Dốc Bà Nghĩa-Phường Uyên Hưng (TP Tân Uyên)",
+                        "reason": "Đầu tư xây dựng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    }
+                ]
+            },
+            {
+                "date": "16 tháng 1 năm 2025",
+                "details": [
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA 400kVA Tân Lập 2, đường ĐLBD, phường Chánh Nghĩa, Tp TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA III-400kVA Huỳnh Văn Lũy 8, đường Huỳnh Văn Lũy, Hẻm 17 đường Huỳnh Văn Lũy, phường Phú Lợi, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA III-400kVA Đại Học Bình Dương, đường ĐLBD, phường Hiệp Thành, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế III-320kVA KDC K8-1, đường ĐLBD, phường Hiệp Thành, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA 3x50kVA DD Đài Phát Thanh, đường hẻm 178 đường ĐLBD, phường Phú Hòa, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA III-320kVA Sư Bảy 1, đường Phú Lợi, đường Bùi Văn Bình, hẻm 22 đường Bùi Văn Bình, phường Phú Lợi, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Khu vực đường Lò Lu, phường Tương Bình Hiệp, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "15:30",
+                        "location": "Khu vực đường số 06,07, 08,11,12,24 , KDC Hiệp Thành 3, phường Hiệp Thành, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực Đường DT 743 từ thú phí bình thung đến cổng KCN Tân Đông Hiệp A-Phường Tân Đông Hiệp-TPDA",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực bên phải đường DT 743 từ Cổng 17 đến Công An phường Tân Đông Hiệp , thành phố Dĩ An, tỉnh Bình Dương.",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "TBA Thanh Tân 1, thuộc xã Thanh An (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "TBA Năm Hoài, thuộc xã Thanh Tuyền (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "TBA Bà Thiện, thuộc xã Thanh An (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thị xã Tân Uyên",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Khu vực trạm Nguyễn Văn Minh 3, KNO Hội Nghĩa-Phường Hội Nghĩa ( TP Tân Uyên)",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thị xã Tân Uyên",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Khu vực trạm Tổ 6 Bình Chánh-Phường Khánh Bình (TP Tân Uyên)",
+                        "reason": "Đầu tư xây dựng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Phú Giáo",
+                        "date": "16 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Khu vực: Ấp Đồng Tâm xã An Bình (Phú Giáo)",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    }
+                ]
+            },
+            {
+                "date": "17 tháng 1 năm 2025",
+                "details": [
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA III-630kVA Nhà Thờ 1, đường CMT8, đường Ngô Quyền, đường Phạm Ngũ Lão, phường Hiệp Thành, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA III-320kVA Bơm Chợ Đình 2, đường Phú Lợi, phường Phú Lợi, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Lưới hạ thế TBA III-400kVA Bơm Chợ Đình, đường Phú Lợi, phường Phú Lợi, P TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "12:00",
+                        "location": "Khu vực đường DX 081, 078 phường Định Hòa, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "12:30",
+                        "location": "Khu vực đường DX 034, DX 039, DX 037, phường Phú Mỹ, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "17:00",
+                        "location": "Khu vực đường Nguyễn Tri Phương, đường phường Chánh Nghĩa, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "17:00",
+                        "location": "Khu vực đường DX 70, 17 Định Hòa, Phường Định Hòa, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường Đoàn Thị Kia-Phường Tân Đông Hiệp-TPDA",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường Đoàn Thị Kia-Phường Tân Đông Hiệp-TPDA",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "TBA Ấp 11A3 Thanh Tuyền, thuộc xã Thanh Tuyền (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "TBA Ấp 5 Thanh Tuyền, thuộc xã Thanh Tuyền (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "TBA Ấp 5-3 Định Hiệp, thuộc xã Định Thành (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "TBA Đồng Bà Ba 1-1, thuộc xã Long Hòa (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "TBA Ấp 8 Long Tân, thuộc xã Long Tân (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "TBA Ấp 3-1 Long Tân, thuộc xã Long Tân (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "TBA Ấp 4-2 Long Tân, thuộc xã Long Tân (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "TBA Tư Hùng, Nguyễn Hoàng Hải, Lê Văn Cường, Ngọc Loan, thuộc xã Long Tân (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thị xã Tân Uyên",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Khu vực trạm Cây Quéo 2, Cây Quéo 2B, Cây Quéo 3, ĐĐ 37 - ĐT 746, Cơ Sở Hàn Lê Thành Dũng, nhánh rẽ Công ty CP Vacxin Việt Nam CN Bình Dương-Phường Khánh Bình (TP Tân Uyên)",
+                        "reason": "Đầu tư xây dựng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thị xã Tân Uyên",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "09:00",
+                        "endTime": "13:00",
+                        "location": "Khu vực trạm Cây Quéo 5-Phường Uyên Hưng (TP Tân Uyên)",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thị xã Tân Uyên",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "09:00",
+                        "endTime": "13:00",
+                        "location": "Khu vực trạm Khu 2 Vĩnh Trường 2-Phường Tân Vĩnh Hiệp (TP Tân Uyên)",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bàu Bàng",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "05:00",
+                        "endTime": "06:00",
+                        "location": "Dọc bên phải đường QL13 từ Tạp hóa bà Tám Vàng đến ngã 3 Bằng Lăng, dọc 02 bên đường QL13 từ ngã 3 Bằng Lăng đến Cầu Tham Rớt - Thị trấn Lai Uyên, xã Trừ Văn Thố, Cây Trường II huyện Bàu Bàng, xã Tân Long, An Long huyện Phú Giáo",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bàu Bàng",
+                        "date": "17 tháng 1 năm 2025",
+                        "startTime": "05:00",
+                        "endTime": "06:00",
+                        "location": "Dọc bên phải đường QL13 từ Tạp hóa bà Tám Vàng đến ngã 3 Bằng Lăng, dọc 02 bên đường QL13 từ ngã 3 Bằng Lăng đến Cầu Tham Rớt - Thị trấn Lai Uyên, xã Trừ Văn Thố, Cây Trường II huyện Bàu Bàng, xã Tân Long, An Long huyện Phú Giáo",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    }
+                ]
+            },
+            {
+                "date": "18 tháng 1 năm 2025",
+                "details": [
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Khu vực đường Huỳnh Văn Lũy, phường Phú Mỹ, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Thủ Dầu Một",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "17:00",
+                        "location": "Khu vực đường Huỳnh Văn Lũy, phường Phú Mỹ, TP TDM",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường Đông Thành-Phường Tân Đông Hiệp-TPDA",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "TBA Bảy Sang 1, thuộc xã Minh Tân (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "TBA Ông Thủy 1, thuộc xã Định An (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "TBA Ấp 4B-1 Minh Tân, thuộc xã Minh Tân (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thị xã Tân Uyên",
+                        "date": "18 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Khu vực trạm Miễu Bình Hóa-Phường Uyên Hưng (TP Tân Uyên)",
+                        "reason": "Đầu tư xây dựng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    }
+                ]
+            },
+            {
+                "date": "19 tháng 1 năm 2025",
+                "details": [
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "TBA Bệnh Xá 3, thuộc thị trấn Dầu Tiếng (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "TBA Ông Rành, thuộc xã An Lập (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thị xã Tân Uyên",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "06:00",
+                        "endTime": "18:00",
+                        "location": "Khu vực đường số 8, số 9 KCN TM-DV Uyên Hưng - Phường Uyên Hưng (TP Tân Uyên).",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thị xã Tân Uyên",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "06:00",
+                        "endTime": "18:00",
+                        "location": "Khu vực từ Dốc Bà Nghĩa dọc đường ĐT 747 đến Trường THPT Huỳnh Văn Nghệ, khu vực Cty Mây tre lá Ba Nhất, khu vực kéo Nguyễn Đình, khu vực Gò Tượng thuộc Phường Uyên Hưng (TP Tân Uyên)",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thị xã Tân Uyên",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "06:00",
+                        "endTime": "07:00",
+                        "location": "Khu vực từ Ngã 4 Bưu Điện Tân Uyên dọc đường ĐT 747 đến Ngã 3 Bình Hóa thuộc Phường Uyên Hưng, khu vực Cty Phú Sản, Cty Thiên Thai, Cty Công viên Mô tô Khánh Bình thuộc Phường Khánh Bình, khu vực xã Bạch Đằng (TP Tân Uyên)",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thị xã Tân Uyên",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "17:00",
+                        "endTime": "18:00",
+                        "location": "Khu vực từ Ngã 4 Bưu Điện Tân Uyên dọc đường ĐT 747 đến Ngã 3 Bình Hóa thuộc Phường Uyên Hưng, khu vực Cty Phú Sản, Cty Thiên Thai, Cty Công viên Mô tô Khánh Bình thuộc Phường Khánh Bình, khu vực xã Bạch Đằng (TP Tân Uyên)",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bàu Bàng",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "06:00",
+                        "endTime": "18:00",
+                        "location": "Khu vực dọc đường D12 từ giao lộ đường D12-N14 đến giao lộ đường D12-N19 - KCN Bàu Bàng (Bàu Bàng)",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bàu Bàng",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "06:00",
+                        "endTime": "18:00",
+                        "location": "Khu vực dọc đường D12 từ giao lộ đường D12-N14 đến giao lộ đường D12-N19 - KCN Bàu Bàng (Bàu Bàng)",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bắc Tân Uyên",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "06:00",
+                        "endTime": "18:00",
+                        "location": "Khu vực bên phải đường giao thông DT 746 từ cổng KCN Đất Cuốc A đến nút giao thông đườngDT 746 và HL 414, xã Đất Cuốc, Bắc Tân Uyên. - Khu vực từ Ngã 3 Huyện Đội dọc đường ĐT 746 đến Ngã 3 Lâm Trường, từ Ngã 3 Huyện Đội dọc đường Tố Hữu đến Cây Xăng Phú Lợi - Phường Uyên Hưng (TP Tân Uyên).",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bắc Tân Uyên",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "06:00",
+                        "endTime": "18:00",
+                        "location": "Khu vực bên phải đường giao thông DT 746 từ cổng KCN Đất Cuốc A đến nút giao thông đườngDT 746 và HL 414, xã Đất Cuốc, Bắc Tân Uyên. - Khu vực từ Trung Tâm dạy nghề dọc đường Uyên Hưng đến Cty Gỗ Thảo Nguyên, KNO Tân Long 1, 2-Phường Uyên Hưng, các đường D2-N1, D2, D2-N5, N5-2 KCN Nam Tân Uyên mở rộng thuộc Phường Hội Nghĩa (TP Tân Uyên).",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bắc Tân Uyên",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "06:00",
+                        "endTime": "18:00",
+                        "location": "Khu vực dọc 2 bên đường giao thông DT 476 từ cổng KCN Đất Cuốc A đến Công An huyện BTU - Khu vực từ Công An huyện BTU đến Ngã 3 Tân Thành, TT Tân Thành, Bắc Tân Uyên - Khu vực từ Ngã 3 Tân Thành đến Ngã 3 Hội Nghĩa, đến đường Bình Mỹ 31, xã Tân Lập, khu phố 3,4,5 TP Tân Uyên, một phần xã Bình Mỹ, Bắc Tân Uyên.",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bắc Tân Uyên",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "06:00",
+                        "endTime": "18:00",
+                        "location": "Khu vực nội bộ KCN Đất Cuốc B, tuyến 479 Ngũ Kim, xã Đất Cuốc, Bắc Tân Uyên.",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bắc Tân Uyên",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "06:00",
+                        "endTime": "18:00",
+                        "location": "Khu vực Cty TNHH MTV Sản Xuất Bao Bì Giấy Bình Minh 2, thuộc KCN Đất Cuốc B, xã Đất Cuốc, Bắc Tân Uyên.",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bắc Tân Uyên",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "06:00",
+                        "endTime": "18:00",
+                        "location": "Từ Cổng KCN Đất Cuốc A dọc 2 bên đường giao thông bên phải đường DT746 đến nút giao thông Ngả 3 đường DT746 và ĐH 414 ( Ngã 3 Hốc Râm) - Từ Ngã 3 Hốc Râm đến Ngã 3 Minh Quăng đến Máng Tràn đến nút giao thông ngã 3 đường ĐH 414 với đường ĐT746 ( ngã 3 Chợ Chiều) - Dọc 2 bên đường giao thông DH 414 từ Ngã 3 Minh Quăng đến Ngã Tư Mỹ Lộc - Dọc 2 bên đường giao thông từ Ngã 3 Chợ Chiều Lạc An đến Cty Xi Măng Bình Dương, xã Tân Mỹ, Thường Tân và một phần xã Lạc An, Bắc Tân Uyên",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bắc Tân Uyên",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "06:00",
+                        "endTime": "18:00",
+                        "location": "Từ Cổng KCN Đất Cuốc A dọc 2 bên đường giao thông bên phải đường DT746 đến nút giao thông Ngả 3 đường DT746 và ĐH 414 ( Ngã 3 Hốc Râm) - Từ Ngã 3 Hốc Râm đến Ngã 3 Minh Quăng đến Máng Tràn đến nút giao thông ngã 3 đường ĐH 414 với đường ĐT746 ( ngã 3 Chợ Chiều) - Dọc 2 bên đường giao thông từ Ấp 6 Thường Tân đến Cty Xi Măng Bình Dương, xã Thường Tân và một phần xã Lạc An, Bắc Tân Uyên",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bắc Tân Uyên",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "06:00",
+                        "endTime": "18:00",
+                        "location": "Nội bộ KCN Đất Cuốc A, xã Đất Cuốc, Bắc Tân Uyên - Dọc 2 bên đường giao thông từ Cổng KCN Đất Cuốc A đện Công An Huyện Bắc Tân Uyên, xã Đất cuốc, Bắc Tân Uyên - Dọc 2 bên đường giao thông HL 415 từ Công An Huyện Bắc Tân Uyên đến Trang Trại Bùi Đình Phương,xã Đất cuốc, Bắc Tân Uyên",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Bắc Tân Uyên",
+                        "date": "19 tháng 1 năm 2025",
+                        "startTime": "06:00",
+                        "endTime": "18:00",
+                        "location": "Khu vực dọc 2 bên đường giao thông từ Cổng KCN Đất Cuốc A đến Ngã 3 Chợ Tân Thành. - Từ Ngã 3 Chợ Tân Thành đến Ngã 3 Chợ Tân Định đến Trường GDGQVL số 4 Tân Định, xã Tân Định, BTU - Từ Ngã 3 Chợ Tân Định đến Ngã 3 Hiếu Liêm, từ Ngã 3 Hiếu Liêm đến Đồi Bà Én, xã Hiếu Liêm, BTU.",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    }
+                ]
+            },
+            {
+                "date": "20 tháng 1 năm 2025",
+                "details": [
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "20 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường Đường Lý Thường Kiệt-Phường Dĩ An-TPDA",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Phú Giáo",
+                        "date": "20 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Khu vực: Ấp Cà Na xã An Bình (Phú Giáo)",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    }
+                ]
+            },
+            {
+                "date": "21 tháng 1 năm 2025",
+                "details": [
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "21 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường Đường Nguyễn Thị Tươi -KP Tân Phước -Phường Tân Bình-TPDA",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "21 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường Đường Nguyễn Thị Tươi -KP Tân Phước -Phường Tân Bình-TPDA",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "21 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường Đường Nguyễn Thị Tươi -KP Tân Phước -Phường Tân Bình-TPDA",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "21 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường Đường Nguyễn Thị Tươi -KP Tân Phước -Phường Tân Bình-TPDA",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "21 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường Đường Nguyễn Thị Tươi -KP Tân Phước -Phường Tân Bình-TPDA",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "21 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường Đường Nguyễn Thị Tươi -KP Tân Phước -Phường Tân Bình-TPDA",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "21 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường Đường Nguyễn Thị Tươi -KP Tân Phước -Phường Tân Bình-TPDA",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "21 tháng 1 năm 2025",
+                        "startTime": "07:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường Đường Nguyễn Thị Tươi -KP Tân Phước -Phường Tân Bình-TPDA",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "21 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường Đường Trần Hưng Đạo-Phường Dĩ An-TPDA",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "21 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường Đường Nguyễn Tri Phương Đạo-Phường An Bình-TPDA",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "21 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "TBA Ông Tiến, xã Minh Tân (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "21 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "TBA Ông Bộ, Ấp Tân Định, xã Minh Tân (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "21 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "TBA Ấp 4B2 Minh Tân, xã Minh Tân (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "21 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "TBA Nông Trường Minh Tân, xã Minh Tân (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Phú Giáo",
+                        "date": "21 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "17:00",
+                        "location": "Khu vực: Ấp Tân Bình xã An Thái (Phú Giáo)",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    }
+                ]
+            },
+            {
+                "date": "22 tháng 1 năm 2025",
+                "details": [
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "22 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực đường Đường An Nhơn-KP Tân Phú 1 -Phường Tân Bình -TPDA",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "22 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "TBA Khơ Me 1, 2, 3, 35, Nguyễn Hạnh, xã Minh Thạnh (Dầu Tiếng)",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thị xã Tân Uyên",
+                        "date": "22 tháng 1 năm 2025",
+                        "startTime": "11:00",
+                        "endTime": "13:30",
+                        "location": "Khu vực HKD Bàng Mỹ Nhi dọc đường Tân Hiệp đến Cơ Sở Phạm Văn Hải-Phường Tân Hiệp (TP Tân Uyên)",
+                        "reason": "Đầu tư xây dựng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Phú Giáo",
+                        "date": "22 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "11:00",
+                        "location": "Khu vực lưới hạ áp Trạm An Bình 2 trụ 106 - Tuyến 471 Bàu Trư. Đường DT741 Ấp Tân Thịnh xã An Bình (Phú Giáo)",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    }
+                ]
+            },
+            {
+                "date": "23 tháng 1 năm 2025",
+                "details": [
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "23 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực Khu 5 Nội Hóa -Phường Bình An-TPDA-BD",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "23 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "TBA Đồng Sơn, Đồng Sơn 1, xã Minh Thạnh (Dầu Tiếng)",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "23 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "TBA Bùi Hải, Mai Quốc, xã Minh Thạnh (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Dầu Tiếng",
+                        "date": "23 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "TBA Cầu Bà Và, xã Minh Thạnh (Dầu Tiếng)",
+                        "reason": "Chuyển tải hạ thế",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Phú Giáo",
+                        "date": "23 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "12:00",
+                        "location": "Khu vực: Ấp 2 xã Tân Hiệp (Phú Giáo)",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Phú Giáo",
+                        "date": "23 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "17:00",
+                        "location": "Khu vực: Ấp 3 xã Tân Hiệp (Phú Giáo)",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    }
+                ]
+            },
+            {
+                "date": "24 tháng 1 năm 2025",
+                "details": [
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "24 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực Đường Ngộ Thị Nhậm-KP Nhị Đồng-Phường Dĩ An -TPDA-BD",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "24 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực Xóm Đương -Phường Dĩ An-TPDA-BD",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Thành phố Dĩ An",
+                        "date": "24 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "16:30",
+                        "location": "Khu vực TTYT Dĩ An-Đường DT 743 -Phường Tân Đông Hiệp-TPDA-BD",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Phú Giáo",
+                        "date": "24 tháng 1 năm 2025",
+                        "startTime": "08:00",
+                        "endTime": "12:00",
+                        "location": "Khu vực Ấp 4 Xã An Thái ( Phú Giáo).",
+                        "reason": "Bảo trì, sửa chữa lưới điện",
+                        "status": "Đã duyệt"
+                    },
+                    {
+                        "powerCompany": "Điện lực Huyện Phú Giáo",
+                        "date": "24 tháng 1 năm 2025",
+                        "startTime": "13:00",
+                        "endTime": "16:00",
+                        "location": "Khu vựclưới hạ áp Trạm An Thái 2 trụ 248 nhánh rẽ Kỉnh Nhượng - tuyến 476 An Linh Ấp 4 xã An Thái (Phú Giáo)",
+                        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+                        "status": "Đã duyệt"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "provinceName": "TP.HCM",
+        "powerCuts": []
+    }
+]
